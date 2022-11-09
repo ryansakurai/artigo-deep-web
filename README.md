@@ -11,12 +11,12 @@
 <p> Por sua vez, a web - também conhecida como World Wide Web (WWW) -  é um sistema de compartilhamento de informações através da internet. Ela é um conjunto de arquivos que podem ser visualizados através de um navegador, como o Google Chrome, o Mozilla Firefox, o defunto Internet Explorer e seu substituto Microsoft Edge. </p>
 
 ![navegadores](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_0.png)
-<em> [5] Os dez navegadores mais usados no mundo </em>
+<p> <em> [5] Os dez navegadores mais usados no mundo </em> </p>
 
 <p> O compartilhamento de informações na web é feito através de HTML, uma linguagem de marcação de hipertexto que, por sua vez, funciona sob os princípios de hipertexto e hipermídia. Hipertexto define o conceito de texto não linear, ou seja, que possui link para outros textos, e hipermídia consiste na coexistência de texto, vídeos, imagens e outras formas de conteúdo na mesma página. </p>
 
 ![hipertexto](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_1.png)
-<em> [7] Representação visual do conceito de hipertexto </em>
+<p> <em> [7] Representação visual do conceito de hipertexto </em> </p>
 
 <p> Tendo isso em vista, a web possui 3 principais camadas: a Surface Web, a Deep Web e a Dark Web, que vão ser apresentadas a seguir. </p>
 
@@ -26,7 +26,7 @@
 <p> Web crawlers são os algoritmos dos mecanismos de busca responsáveis por fazer a indexação das páginas da web. Esses bots inspecionam seus códigos HTML procurando por dados sobre a página, as indexam e as classificam com base nesses dados. Dessa maneira, quando um usuário faz uma pesquisa no Google, ele encontra os resultados que o mecanismo julga serem mais relevantes. </p>
 
 ![web crawler](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_2.png)
-<em> [12] Ilustração da indexação feita por mecanismos de busca </em>
+<p> <em> [12] Ilustração da indexação feita por mecanismos de busca </em> </p>
 
 ## Deep Web
 <p> A segunda camada da web, a Deep Web, em oposição à Surface Web, é a parte da web composta por páginas que não podem ser acessadas através de mecanismos de busca, ou seja, que não foram indexadas. A maior parte dessas páginas utilizam as mesmas tecnologias da Surface Web e, apesar de dificuldades no cálculo de seu tamanho, a Deep Web compõe a esmagadora maioria da web. </p>
@@ -34,7 +34,7 @@
 <p> Os motivos para a não indexação das páginas da Deep Web podem ser diversos: necessidade de autenticação ou pagamento, uso de outros protocolos que não sejam HTTP/HTTPS, conteúdo gerado dinamicamente, dificuldade em indexar mídia ou até falta de link entre uma página e outra. A indexação pode, inclusive, ser impedida de maneira voluntária por parte do criador do site, através do arquivo robots.txt, que diz aos web crawlers quais páginas não indexar. </p>
 
 ![robots.txt](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_3.png)
-<em> Screenshot do arquivo robots.txt do Facebook </em>
+<p> <em> Screenshot do arquivo robots.txt do Facebook </em> </p>
 
 <p> Exemplos de páginas que fazem parte da Deep Web são: conversas no WhatsApp Web, feed do Facebook, caixa de e-mails, salas virtuais do Google Meet, bancos de dados, jornais científicos, etc. Portanto, é equivocada a crença popular de que a Deep Web seja um lugar hostil e perigoso, formado majoritariamente por sites criminosos e visitado por hackers. </p>
 
@@ -50,7 +50,7 @@
 <p> A volta do pacote (sentido servidor-cliente) é feita da maneira inversa. Primeiro o dado é enviado sem nenhuma das camadas de criptografia do Tor (pode ser que o dado já tenha sido encriptado antes de passar pela rede) ao nó de saída, que irá adicionar a primeira. Após isso, será adicionada uma camada de criptografia por máquina, até que o dado seja enviado do nó guarda até o cliente, que removerá as três camadas de uma vez. </p>
 
 ![tor processo](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_4.png)
-<em> [15] Ilustração do processo de onion routing </em>
+<p> <em> [15] Ilustração do processo de onion routing </em> </p>
 
 <p> A anonimidade nesse sistema se deve ao fato de que um nó conhece apenas o IP do nó anterior e o do nó posterior. Por isso, com exceção do guarda, nenhum dos nós ou o servidor conhecem o IP do cliente, e vice-versa. </p>
 
