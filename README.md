@@ -43,10 +43,11 @@ Os motivos para a não indexação das páginas da Deep Web podem ser diversos: 
 Exemplos de páginas que fazem parte da Deep Web são: conversas no WhatsApp Web, feed do Facebook, caixa de e-mails, salas virtuais do Google Meet, bancos de dados, jornais científicos, etc. Portanto, é equivocada a crença popular de que a Deep Web seja um lugar hostil e perigoso, formado majoritariamente por sites criminosos e visitado por hackers.
 
 ## Dark Web
-Por último, a camada mais profunda da web é a Dark Web. Ela também é formada por páginas que não foram indexadas pelos sites de busca, ou seja, tecnicamente também faz parte da Deep Web. Porém, o fator que a diferencia do resto da Deep Web é que ela funciona usando como suporte as darknets, ao invés da internet padrão.
+Por último, a camada mais profunda da web é a Dark Web. Ela também é formada por páginas que não foram indexadas pelos sites de busca, ou seja, tecnicamente também faz parte da Deep Web. Porém, o fator que a diferencia do resto da Deep Web é que ela funciona usando como suporte as darknets, que são redes construídas em cima da internet que só podem ser acessadas com tecnologias ou configurações específicas. Apesar de existirem várias, a que está mais comumente associada à Dark Web é a rede Tor - The Onion Router - que é marcada pela anonimidade dos usuários.
 
-Darknets são redes construídas em cima da internet que só podem ser acessadas com tecnologias ou configurações específicas. Apesar de existirem várias, a que está mais comumente associada à Dark Web é a rede Tor - The Onion Router.
+Por causa da anonimidade provida pela Dark Web, ela muitas vezes é palco de atividades ilegais, como: pornografia ilegal, mercado ilegal, contrato de serviço de hackers, etc. Dito isso, seu acesso não é seguro e não compensa ser feito, se não houver um motivo específico para isso. Apesar disso, a Dark Web não é completamente negativa, pois também permite combater a censura em regimes totalitários e facilitar a ação de whistleblowers, por exemplo.
 
+### TOR
 Tor é uma rede descentralizada mantida por vários voluntários que usa uma técnica chamada onion routing para a transmissão de informações entre usuário e servidor, que consiste em passar o pacote por várias máquinas intermediárias, o envolvendo em várias camadas de criptografia. Pode ser feita uma analogia entre essas camadas com as de uma cebola, que é de onde se origina o termo onion routing.
 
 No envio de pacote do cliente ao servidor, primeiramente, o dado é encriptado três vezes e encaminhado à primeira máquina, chamada de nó guarda. Essa máquina irá tirar uma camada de criptografia e encaminhar o pacote à máquina intermediária, que, por sua vez, removerá mais uma camada de criptografia e o enviará ao chamado nó de saída. Após a terceira camada de criptografia ser removida, o dado finalmente será encaminhado pelo nó de saída e chegará ao seu destino.
@@ -60,8 +61,6 @@ A volta do pacote (sentido servidor-cliente) é feita da maneira inversa. Primei
 A anonimidade nesse sistema se deve ao fato de que um nó conhece apenas o IP do nó anterior e o do nó posterior. Por isso, com exceção do guarda, nenhum dos nós ou o servidor conhecem o IP do cliente, e vice-versa.
 
 Os sites hospedados na rede Tor costumam ter a extensão .onion e podem ser acessados facilmente através do navegador Tor, que também pode ser usado para acessar sites da Surface Web, apesar de vários deles impedirem acesso através da rede onion.
-
-Por causa da anonimidade provida pela Dark Web, ela muitas vezes é palco de atividades ilegais, como: pornografia ilegal, mercado ilegal, contrato de serviço de hackers, etc. Dito isso, seu acesso não é seguro e não compensa ser feito, se não houver um motivo específico para isso. Apesar disso, a Dark Web não é completamente negativa, pois também permite combater a censura em regimes totalitários e facilitar a ação de whistleblowers, por exemplo.
 
 ## Conclusão
 Através deste artigo, conclui-se que apesar do uso intercambiado entre web e internet, os dois conceitos são diferentes, sendo a web dividida em camadas de acesso. Além disso, é errado dizer que a Deep Web é uma rede usada majoritariamente por criminosos, pois esse tipo de atividade se concentra em parte de uma porção da Deep Web: a Dark Web. Por conta de sua privacidade e anonimato, ela é uma ferramenta que pode muitas vezes ser usada de maneira benigna, porém ainda é insegura e carregada de ilegalidade e perigos. Portanto, ela não deve ser acessada por pessoas leigas e que não tem um bom motivo para acessá-la.
