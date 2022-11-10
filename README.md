@@ -6,9 +6,9 @@ Muito popular entre canais de curiosidade e teorias da conspiração no Youtube,
 ## Introdução
 Apesar dos termos internet e web serem frequentemente utilizados intercambiavelmente, eles não são sinônimos. Por isso, antes de mais nada, é importante diferenciá-los.
 
-A internet é uma rede que conecta computadores, servidores e outros aparelhos em escala global, além da infraestrutura por trás dessa rede. Sua criação data em meados da década de 1960 e ela possibilita o transporte de informações no mundo contemporâneo e tecnologias como a web.
+A internet é uma rede que conecta computadores, servidores e outros aparelhos em escala global, além da infraestrutura por trás dessa rede. Sua criação data em meados da década de 1970 e ela possibilita o transporte de informações no mundo contemporâneo e tecnologias como a web.
 
-Por sua vez, a web - também conhecida como World Wide Web (WWW) -  é um sistema de compartilhamento de informações através da internet. Ela é um conjunto de arquivos que podem ser visualizados através de um navegador, como o Google Chrome, o Mozilla Firefox, o defunto Internet Explorer e seu substituto Microsoft Edge.
+Por sua vez, a web - também conhecida como World Wide Web (WWW) -  é um sistema de compartilhamento de informações através da internet criado na década de 1980. Ela é um conjunto de arquivos que podem ser visualizados através de um navegador, como o Google Chrome, o Mozilla Firefox, o defunto Internet Explorer e seu substituto Microsoft Edge.
 
 ![navegadores](imagens/img_0.png)
 
