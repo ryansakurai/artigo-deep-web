@@ -12,13 +12,13 @@ Por sua vez, a web - também conhecida como World Wide Web (WWW) -  é um sistem
 
 ![navegadores](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_0.png)
 
-*[5] Os dez navegadores mais usados no mundo*
+*[Exemplos de navegadores](https://www.oficinadanet.com.br/internet/30735-10-navegadores-mais-usados-no-mundo)*
 
 O compartilhamento de informações na web é feito através de HTML, uma linguagem de marcação de hipertexto que, por sua vez, funciona sob os princípios de hipertexto e hipermídia. Hipertexto define o conceito de texto não linear, ou seja, que possui link para outros textos, e hipermídia consiste na coexistência de texto, vídeos, imagens e outras formas de conteúdo na mesma página.
 
 ![hipertexto](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_1.png)
 
-*[7] Representação visual do conceito de hipertexto*
+*[Representação visual do conceito de hipertexto](https://en.wikipedia.org/wiki/Hypertext)*
 
 Tendo isso em vista, a web possui 3 principais camadas: a Surface Web, a Deep Web e a Dark Web, que vão ser apresentadas a seguir.
 
@@ -29,7 +29,7 @@ Web crawlers são os algoritmos dos mecanismos de busca responsáveis por fazer 
 
 ![web crawler](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_2.png)
 
-*[12] Ilustração da indexação feita por mecanismos de busca*
+*[Ilustração da indexação feita por mecanismos de busca](https://computersciencewiki.org/index.php/Web-indexing0*
 
 ## Deep Web
 A segunda camada da web, a Deep Web, em oposição à Surface Web, é a parte da web composta por páginas que não podem ser acessadas através de mecanismos de busca, ou seja, que não foram indexadas. A maior parte dessas páginas utilizam as mesmas tecnologias da Surface Web e, apesar de dificuldades no cálculo de seu tamanho, a Deep Web compõe a esmagadora maioria da web.
@@ -55,7 +55,7 @@ A volta do pacote (sentido servidor-cliente) é feita da maneira inversa. Primei
 
 ![tor processo](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_4.png)
 
-*[15] Ilustração do processo de onion routing*
+*[Ilustração do processo de onion routing](https://www.bbc.com/news/technology-30637010)*
 
 A anonimidade nesse sistema se deve ao fato de que um nó conhece apenas o IP do nó anterior e o do nó posterior. Por isso, com exceção do guarda, nenhum dos nós ou o servidor conhecem o IP do cliente, e vice-versa.
 
@@ -71,14 +71,10 @@ Através deste artigo, conclui-se que apesar do uso intercambiado entre web e in
 2. [A Brief History of the Internet (usg.edu)](https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml)
 3. [Who Invented the Internet? - HISTORY](https://www.history.com/news/who-invented-the-internet)
 4. [What is the Web? - Definition from Techopedia](https://www.techopedia.com/definition/5613/web)
-5. [10 navegadores mais usados no mundo (oficinadanet.com.br)](https://www.oficinadanet.com.br/internet/30735-10-navegadores-mais-usados-no-mundo)
-6. [What is Hypertext? (w3.org)](https://www.w3.org/WhatIs.html)
-7. [Hypertext - Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
-8. [What is the Deep Web and What Will You Find There? (techtarget.com)](https://www.techtarget.com/whatis/definition/deep-Web)
-9. [Is the Dark Web Dangerous? What you need to know (kaspersky.com)](https://www.kaspersky.com/resource-center/threats/deep-web)
-10. [What is a web crawler? | How web spiders work | Cloudflare](https://www.cloudflare.com/learning/bots/what-is-a-web-crawler/)
-11. [Web Crawler: Entenda o Que é, Quando Usar e Como Funciona (neilpatel.com)](https://neilpatel.com/br/blog/web-crawler/)
-12. [Web-indexing - Computer Science Wiki](https://computersciencewiki.org/index.php/Web-indexing)
-13. [Going Dark: The Internet Behind The Internet : All Tech Considered : NPR](https://www.npr.org/sections/alltechconsidered/2014/05/25/315821415/going-dark-the-internet-behind-the-internet)
-14. [What is Tor and how does it work? | TechRadar](https://www.techradar.com/vpn/what-is-tor-and-how-does-it-work)
-15. [Tor's most visited hidden sites host child abuse images - BBC News](https://www.bbc.com/news/technology-30637010)
+5. [What is Hypertext? (w3.org)](https://www.w3.org/WhatIs.html)
+6. [What is the Deep Web and What Will You Find There? (techtarget.com)](https://www.techtarget.com/whatis/definition/deep-Web)
+7. [Is the Dark Web Dangerous? What you need to know (kaspersky.com)](https://www.kaspersky.com/resource-center/threats/deep-web)
+8. [What is a web crawler? | How web spiders work | Cloudflare](https://www.cloudflare.com/learning/bots/what-is-a-web-crawler/)
+9. [Web Crawler: Entenda o Que é, Quando Usar e Como Funciona (neilpatel.com)](https://neilpatel.com/br/blog/web-crawler/)
+10. [Going Dark: The Internet Behind The Internet : All Tech Considered : NPR](https://www.npr.org/sections/alltechconsidered/2014/05/25/315821415/going-dark-the-internet-behind-the-internet)
+11. [What is Tor and how does it work? | TechRadar](https://www.techradar.com/vpn/what-is-tor-and-how-does-it-work)
