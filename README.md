@@ -69,14 +69,14 @@ Por causa da anonimidade provida pela Dark Web, ela muitas vezes é palco de ati
 Através deste artigo, conclui-se que apesar do uso intercambiado entre web e internet, os dois conceitos são diferentes, sendo a web dividida em camadas de acesso. Além disso, é errado dizer que a Deep Web é uma rede usada majoritariamente por criminosos, pois esse tipo de atividade se concentra em parte da Dark Web, uma subcamada minoritária da Deep Web. Por conta de sua privacidade e anonimato, ela é uma ferramenta que pode muitas vezes ser usada de maneira benigna, porém ainda é insegura e carregada de ilegalidade e perigos. Portanto, ela não deve ser acessada por pessoas leigas e que não tem um bom motivo para acessá-la.
 
 ## Bibliografia
-1. [Internet vs. Web: What's the Difference? (lifewire.com)](https://www.lifewire.com/difference-between-the-internet-and-the-web-2483335)
-2. [A Brief History of the Internet (usg.edu)](https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml)
+1. [Internet vs. Web: What's the Difference?](https://www.lifewire.com/difference-between-the-internet-and-the-web-2483335)
+2. [A Brief History of the Internet](https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml)
 3. [Who Invented the Internet? - HISTORY](https://www.history.com/news/who-invented-the-internet)
 4. [What is the Web? - Definition from Techopedia](https://www.techopedia.com/definition/5613/web)
-5. [What is Hypertext? (w3.org)](https://www.w3.org/WhatIs.html)
-6. [What is the Deep Web and What Will You Find There? (techtarget.com)](https://www.techtarget.com/whatis/definition/deep-Web)
-7. [Is the Dark Web Dangerous? What you need to know (kaspersky.com)](https://www.kaspersky.com/resource-center/threats/deep-web)
+5. [What is Hypertext?](https://www.w3.org/WhatIs.html)
+6. [What is the Deep Web and What Will You Find There?](https://www.techtarget.com/whatis/definition/deep-Web)
+7. [Is the Dark Web Dangerous? What you need to know](https://www.kaspersky.com/resource-center/threats/deep-web)
 8. [What is a web crawler? | How web spiders work | Cloudflare](https://www.cloudflare.com/learning/bots/what-is-a-web-crawler/)
-9. [Web Crawler: Entenda o Que é, Quando Usar e Como Funciona (neilpatel.com)](https://neilpatel.com/br/blog/web-crawler/)
+9. [Web Crawler: Entenda o Que é, Quando Usar e Como Funciona](https://neilpatel.com/br/blog/web-crawler/)
 10. [Going Dark: The Internet Behind The Internet : All Tech Considered : NPR](https://www.npr.org/sections/alltechconsidered/2014/05/25/315821415/going-dark-the-internet-behind-the-internet)
 11. [What is Tor and how does it work? | TechRadar](https://www.techradar.com/vpn/what-is-tor-and-how-does-it-work)
