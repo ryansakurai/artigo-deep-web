@@ -14,7 +14,7 @@ Por sua vez, a web - também conhecida como World Wide Web (WWW) -  é um sistem
 
 *[Exemplos de navegadores](https://www.oficinadanet.com.br/internet/30735-10-navegadores-mais-usados-no-mundo)*
 
-O compartilhamento de informações na web é feito através de HTML, uma linguagem de marcação de hipertexto que, por sua vez, funciona sob os princípios de hipertexto e hipermídia. Hipertexto define o conceito de texto não linear, ou seja, que possui link para outros textos, e hipermídia consiste na coexistência de texto, vídeos, imagens e outras formas de conteúdo na mesma página.
+O compartilhamento de informações na web é feito através da HyperText Markup Language (HTML), uma linguagem de marcação que, por sua vez, funciona sob os princípios de hipertexto e hipermídia. Hipertexto define o conceito de texto não linear, ou seja, que possui link para outros textos, e hipermídia consiste na coexistência de texto, vídeos, imagens e outras formas de conteúdo na mesma página.
 
 ![hipertexto](imagens/img_1.png)
 
