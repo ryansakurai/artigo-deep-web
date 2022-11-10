@@ -52,15 +52,19 @@ Tor é uma rede descentralizada mantida por vários voluntários que usa uma té
 
 No envio de pacote do cliente ao servidor, primeiramente, o dado é encriptado três vezes e encaminhado à primeira máquina, chamada de nó guarda. Essa máquina irá tirar uma camada de criptografia e encaminhar o pacote à máquina intermediária, que, por sua vez, removerá mais uma camada de criptografia e o enviará ao chamado nó de saída. Após a terceira camada de criptografia ser removida, o dado finalmente será encaminhado pelo nó de saída e chegará ao seu destino.
 
+![criptografia do tor](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_5.png)
+
+*[Criptografia da rede TOR](https://1technation.com/tech-savvy-dark-side-onion-router/)*
+
 A volta do pacote (sentido servidor-cliente) é feita da maneira inversa. Primeiro o dado é enviado sem nenhuma das camadas de criptografia do Tor (pode ser que o dado já tenha sido encriptado antes de passar pela rede) ao nó de saída, que irá adicionar a primeira. Após isso, será adicionada uma camada de criptografia por máquina, até que o dado seja enviado do nó guarda até o cliente, que removerá as três camadas de uma vez.
-
-![tor processo](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_4.png)
-
-*[Ilustração do processo de onion routing](https://www.bbc.com/news/technology-30637010)*
 
 A anonimidade nesse sistema se deve ao fato de que um nó conhece apenas o IP do nó anterior e o do nó posterior. Por isso, com exceção do guarda, nenhum dos nós ou o servidor conhecem o IP do cliente, e vice-versa.
 
 Os sites hospedados na rede Tor costumam ter a extensão .onion e podem ser acessados facilmente através do navegador Tor, que também pode ser usado para acessar sites da Surface Web, apesar de vários deles impedirem acesso através da rede onion.
+
+![processo do tor](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_4.png)
+
+*[Processo de onion routing](https://www.bbc.com/news/technology-30637010)*
 
 ## Conclusão
 Através deste artigo, conclui-se que apesar do uso intercambiado entre web e internet, os dois conceitos são diferentes, sendo a web dividida em camadas de acesso. Além disso, é errado dizer que a Deep Web é uma rede usada majoritariamente por criminosos, pois esse tipo de atividade se concentra em parte de uma porção da Deep Web: a Dark Web. Por conta de sua privacidade e anonimato, ela é uma ferramenta que pode muitas vezes ser usada de maneira benigna, porém ainda é insegura e carregada de ilegalidade e perigos. Portanto, ela não deve ser acessada por pessoas leigas e que não tem um bom motivo para acessá-la.
