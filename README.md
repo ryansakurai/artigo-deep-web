@@ -18,7 +18,7 @@ O compartilhamento de informações na web é feito através da HyperText Markup
 
 ![hipertexto](imagens/img_1.png)
 
-*[Representação visual do conceito de hipertexto](https://en.wikipedia.org/wiki/Hypertext)*
+*[Hipertexto](https://en.wikipedia.org/wiki/Hypertext)*
 
 Tendo isso em vista, a web possui 3 principais camadas: a Surface Web, a Deep Web e a Dark Web, que vão ser apresentadas a seguir.
 
@@ -29,7 +29,7 @@ Web crawlers são os algoritmos dos mecanismos de busca responsáveis por fazer 
 
 ![web crawler](imagens/img_2.png)
 
-*[Ilustração da indexação feita por mecanismos de busca](https://computersciencewiki.org/index.php/Web-indexing)*
+*[Indexação feita por mecanismos de busca](https://computersciencewiki.org/index.php/Web-indexing)*
 
 ## Deep Web
 A segunda camada da web, a Deep Web, em oposição à Surface Web, é a parte da web composta por páginas que não podem ser acessadas através de mecanismos de busca, ou seja, que não foram indexadas. A maior parte dessas páginas utilizam as mesmas tecnologias da Surface Web e, apesar de dificuldades no cálculo de seu tamanho, a Deep Web compõe a esmagadora maioria da web.
@@ -51,7 +51,7 @@ No envio de pacote do cliente ao servidor, primeiramente, o dado é encriptado t
 
 ![criptografia do tor](imagens/img_5.jpg)
 
-*[Ilustração da criptografia da rede TOR](https://1technation.com/tech-savvy-dark-side-onion-router/)*
+*[A criptografia da rede TOR](https://1technation.com/tech-savvy-dark-side-onion-router/)*
 
 A volta do pacote (sentido servidor-cliente) é feita da maneira inversa. Primeiro o dado é enviado sem nenhuma das camadas de criptografia do Tor (pode ser que o dado já tenha sido encriptado antes de passar pela rede) ao nó de saída, que irá adicionar a primeira. Após isso, será adicionada uma camada de criptografia por máquina, até que o dado seja enviado do nó guarda até o cliente, que removerá as três camadas de uma vez.
 
