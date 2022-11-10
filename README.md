@@ -51,7 +51,7 @@ No envio de pacote do cliente ao servidor, primeiramente, o dado é encriptado t
 
 ![criptografia do tor](imagens/img_5.jpg)
 
-*[Criptografia da rede TOR](https://1technation.com/tech-savvy-dark-side-onion-router/)*
+*[Ilustração da criptografia da rede TOR](https://1technation.com/tech-savvy-dark-side-onion-router/)*
 
 A volta do pacote (sentido servidor-cliente) é feita da maneira inversa. Primeiro o dado é enviado sem nenhuma das camadas de criptografia do Tor (pode ser que o dado já tenha sido encriptado antes de passar pela rede) ao nó de saída, que irá adicionar a primeira. Após isso, será adicionada uma camada de criptografia por máquina, até que o dado seja enviado do nó guarda até o cliente, que removerá as três camadas de uma vez.
 
@@ -66,7 +66,7 @@ Os sites hospedados na rede Tor costumam ter a extensão .onion e podem ser aces
 Por causa da anonimidade provida pela Dark Web, ela muitas vezes é palco de atividades ilegais, como: pornografia ilegal, mercado ilegal, contrato de serviço de hackers, etc. Dito isso, seu acesso não é seguro e não compensa ser feito, se não houver um motivo específico para isso. Apesar disso, a Dark Web não é completamente negativa, pois também permite combater a censura em regimes totalitários e facilitar a ação de whistleblowers, por exemplo.
 
 ## Conclusão
-Através deste artigo, conclui-se que apesar do uso intercambiado entre web e internet, os dois conceitos são diferentes, sendo a web dividida em camadas de acesso. Além disso, é errado dizer que a Deep Web é uma rede usada majoritariamente por criminosos, pois esse tipo de atividade se concentra em parte de uma porção da Deep Web: a Dark Web. Por conta de sua privacidade e anonimato, ela é uma ferramenta que pode muitas vezes ser usada de maneira benigna, porém ainda é insegura e carregada de ilegalidade e perigos. Portanto, ela não deve ser acessada por pessoas leigas e que não tem um bom motivo para acessá-la.
+Através deste artigo, conclui-se que apesar do uso intercambiado entre web e internet, os dois conceitos são diferentes, sendo a web dividida em camadas de acesso. Além disso, é errado dizer que a Deep Web é uma rede usada majoritariamente por criminosos, pois esse tipo de atividade se concentra em parte da Dark Web, uma subcamada minoritária da Deep Web. Por conta de sua privacidade e anonimato, ela é uma ferramenta que pode muitas vezes ser usada de maneira benigna, porém ainda é insegura e carregada de ilegalidade e perigos. Portanto, ela não deve ser acessada por pessoas leigas e que não tem um bom motivo para acessá-la.
 
 ## Bibliografia
 1. [Internet vs. Web: What's the Difference? (lifewire.com)](https://www.lifewire.com/difference-between-the-internet-and-the-web-2483335)
