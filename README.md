@@ -10,13 +10,13 @@ A internet é uma rede que conecta computadores, servidores e outros aparelhos e
 
 Por sua vez, a web - também conhecida como World Wide Web (WWW) -  é um sistema de compartilhamento de informações através da internet. Ela é um conjunto de arquivos que podem ser visualizados através de um navegador, como o Google Chrome, o Mozilla Firefox, o defunto Internet Explorer e seu substituto Microsoft Edge.
 
-![navegadores](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_0.png)
+![navegadores](imagens/img_0.png)
 
 *[Exemplos de navegadores](https://www.oficinadanet.com.br/internet/30735-10-navegadores-mais-usados-no-mundo)*
 
 O compartilhamento de informações na web é feito através de HTML, uma linguagem de marcação de hipertexto que, por sua vez, funciona sob os princípios de hipertexto e hipermídia. Hipertexto define o conceito de texto não linear, ou seja, que possui link para outros textos, e hipermídia consiste na coexistência de texto, vídeos, imagens e outras formas de conteúdo na mesma página.
 
-![hipertexto](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_1.png)
+![hipertexto](imagens/img_1.png)
 
 *[Representação visual do conceito de hipertexto](https://en.wikipedia.org/wiki/Hypertext)*
 
@@ -27,7 +27,7 @@ A primeira camada da web, a Surface Web, é a parte da web formada por páginas 
 
 Web crawlers são os algoritmos dos mecanismos de busca responsáveis por fazer a indexação das páginas da web. Esses bots inspecionam seus códigos HTML procurando por dados sobre a página, as indexam e as classificam com base nesses dados. Dessa maneira, quando um usuário faz uma pesquisa no Google, ele encontra os resultados que o mecanismo julga serem mais relevantes.
 
-![web crawler](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_2.png)
+![web crawler](imagens/img_2.png)
 
 *[Ilustração da indexação feita por mecanismos de busca](https://computersciencewiki.org/index.php/Web-indexing)*
 
@@ -36,7 +36,7 @@ A segunda camada da web, a Deep Web, em oposição à Surface Web, é a parte da
 
 Os motivos para a não indexação das páginas da Deep Web podem ser diversos: necessidade de autenticação ou pagamento, uso de outros protocolos que não sejam HTTP/HTTPS, conteúdo gerado dinamicamente, dificuldade em indexar mídia ou até falta de link entre uma página e outra. A indexação pode, inclusive, ser impedida de maneira voluntária por parte do criador do site, através do arquivo robots.txt, que diz aos web crawlers quais páginas não indexar.
 
-![robots.txt](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_3.png)
+![robots.txt](imagens/img_3.png)
 
 *Screenshot do arquivo robots.txt do Facebook*
 
@@ -52,7 +52,7 @@ Tor é uma rede descentralizada mantida por vários voluntários que usa uma té
 
 No envio de pacote do cliente ao servidor, primeiramente, o dado é encriptado três vezes e encaminhado à primeira máquina, chamada de nó guarda. Essa máquina irá tirar uma camada de criptografia e encaminhar o pacote à máquina intermediária, que, por sua vez, removerá mais uma camada de criptografia e o enviará ao chamado nó de saída. Após a terceira camada de criptografia ser removida, o dado finalmente será encaminhado pelo nó de saída e chegará ao seu destino.
 
-![criptografia do tor](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_5.png)
+![criptografia do tor](imagens/img_5.png)
 
 *[Criptografia da rede TOR](https://1technation.com/tech-savvy-dark-side-onion-router/)*
 
@@ -62,7 +62,7 @@ A anonimidade nesse sistema se deve ao fato de que um nó conhece apenas o IP do
 
 Os sites hospedados na rede Tor costumam ter a extensão .onion e podem ser acessados facilmente através do navegador Tor, que também pode ser usado para acessar sites da Surface Web, apesar de vários deles impedirem acesso através da rede onion.
 
-![processo do tor](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_4.png)
+![processo do tor](imagens/img_4.png)
 
 *[Processo de onion routing](https://www.bbc.com/news/technology-30637010)*
 
