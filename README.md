@@ -52,7 +52,7 @@ Tor é uma rede descentralizada mantida por vários voluntários que usa uma té
 
 No envio de pacote do cliente ao servidor, primeiramente, o dado é encriptado três vezes e encaminhado à primeira máquina, chamada de nó guarda. Essa máquina irá tirar uma camada de criptografia e encaminhar o pacote à máquina intermediária, que, por sua vez, removerá mais uma camada de criptografia e o enviará ao chamado nó de saída. Após a terceira camada de criptografia ser removida, o dado finalmente será encaminhado pelo nó de saída e chegará ao seu destino.
 
-![criptografia do tor](imagens/img_5.png)
+![criptografia do tor](imagens/img_5.jpg)
 
 *[Criptografia da rede TOR](https://1technation.com/tech-savvy-dark-side-onion-router/)*
 
