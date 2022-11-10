@@ -29,7 +29,7 @@ Web crawlers são os algoritmos dos mecanismos de busca responsáveis por fazer 
 
 ![web crawler](https://github.com/ryansakurai/artigo-deep-web/blob/main/imagens/img_2.png)
 
-*[Ilustração da indexação feita por mecanismos de busca](https://computersciencewiki.org/index.php/Web-indexing0*
+*[Ilustração da indexação feita por mecanismos de busca](https://computersciencewiki.org/index.php/Web-indexing)*
 
 ## Deep Web
 A segunda camada da web, a Deep Web, em oposição à Surface Web, é a parte da web composta por páginas que não podem ser acessadas através de mecanismos de busca, ou seja, que não foram indexadas. A maior parte dessas páginas utilizam as mesmas tecnologias da Surface Web e, apesar de dificuldades no cálculo de seu tamanho, a Deep Web compõe a esmagadora maioria da web.
