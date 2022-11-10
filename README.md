@@ -10,9 +10,9 @@ A internet é uma rede que conecta computadores, servidores e outros aparelhos e
 
 Por sua vez, a web - também conhecida como World Wide Web (WWW) -  é um sistema de compartilhamento de informações através da internet criado na década de 1980. Ela é um conjunto de arquivos que podem ser visualizados através de um navegador, como o Google Chrome, o Mozilla Firefox, o defunto Internet Explorer e seu substituto Microsoft Edge.
 
-![navegadores](imagens/img_0.png)
+![internet vs web](imagens/img_0.jpg)
 
-*[Exemplos de navegadores](https://www.oficinadanet.com.br/internet/30735-10-navegadores-mais-usados-no-mundo)*
+*[Diferença entre internet e web](https://www.computerhistory.org/revolution/networking/19/314)*
 
 O compartilhamento de informações na web é feito através da HyperText Markup Language (HTML), uma linguagem de marcação que, por sua vez, funciona sob os princípios de hipertexto e hipermídia. Hipertexto define o conceito de texto não linear, ou seja, que possui link para outros textos, e hipermídia consiste na coexistência de texto, vídeos, imagens e outras formas de conteúdo na mesma página.
 
